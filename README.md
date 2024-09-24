@@ -1,4 +1,5 @@
 📅 Attendance Management App
+
 Welcome to the Attendance Management App, a comprehensive solution for managing attendance records with ease. This app is built using the Flutter framework, providing a seamless and interactive user experience for tracking and managing employee attendance.
 
 📋 Table of Contents
